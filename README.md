@@ -47,9 +47,7 @@ July Monads & Mojitos - TBA
 
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 
-- [Beyond Efficiency](https://www.cs.unm.edu/~ackley/be-201301131528.pdf) by 
-David Ackley
-
+- [Beyond Efficiency](https://www.cs.unm.edu/~ackley/be-201301131528.pdf)
 
 ##### Languages, etc.
 
