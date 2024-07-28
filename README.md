@@ -7,15 +7,14 @@ If you would like to add to this repository, please either open a PR, or if
 you're an attending member of Portland Has Skill, hit me up and I can add you
 as a Collaborator 😸
 
+
 ## Table of Contents
 
-- [Portland Has Skill](#portland-has-skill)
-  - [Table of Contents](#table-of-contents)
-  - [Meetup](#meetup)
-    - [Upcoming Events](#upcoming-events)
-    - [Most Recent Event](#most-recent-event)
-    - [Past Events](#past-events)
-  - [Companies Using FP in Portland](#companies-using-fp-in-portland)
+- [Meetup](#meetup)
+  - [Upcoming Events](#upcoming-events)
+  - [Most Recent Event Notes](#most-recent-event-notes)
+  - [Past Events](#past-events)
+- [Companies Using FP in Portland](#companies-using-fp-in-portland)
 
 ## Meetup
 
@@ -25,7 +24,7 @@ as a Collaborator 😸
 
 July Monads & Mojitos - TBA
 
-### Most Recent Event
+### Most Recent Event Notes
 
 - [Monads & Mojitos: Inauguration | 2024-06-27](events/MM-2024-06-27.md)
 
