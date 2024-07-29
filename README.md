@@ -27,6 +27,8 @@ July Monads & Mojitos - TBA
 
 ### Past Events
 
+- [Monads & Mojitos | 2024-07-25](events/MM-2024-07-25.md)
+
 - [Monads & Mojitos: Inauguration | 2024-06-27](events/MM-2024-06-27.md)
 
 ### Most Recent Event Notes
