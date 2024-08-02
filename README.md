@@ -30,9 +30,11 @@ December Monads & Mojitos: December 19, 2024
 
 ### Most Recent Event Notes
 
-- [Monads & Mojitos: Inauguration | 2024-06-27](events/MM-2024-06-27.md)
+- [Monads & Mojitos: Coincidence | 2024-07-25](events/MM-2024-07-25.md)
 
-### Past Events
+### Past Event Notes
+
+- [Monads & Mojitos: Coincidence | 2024-07-25](events/MM-2024-07-25.md)
 
 - [Monads & Mojitos: Inauguration | 2024-06-27](events/MM-2024-06-27.md)
 
