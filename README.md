@@ -3,7 +3,7 @@
 Resources for and by Portland Haskellers and other Functional Programming 
 enthusiasts.
 
-If you would like to add to this repository, please either open a PR, or if 
+If you would like to add to this repository, please either open a PR or, if 
 you're an attending member of Portland Has Skill, hit me up and I can add you
 as a Collaborator 😸
 
@@ -22,11 +22,11 @@ as a Collaborator 😸
 
 ### Upcoming Events
 
-August Monads & Mojitos: August 22, 2024
-September Monads & Mojitos: September 19, 2024
-October Monads & Mojitos: October 17, 2024
-November Monads & Mojitos: November 21, 2024
-December Monads & Mojitos: December 19, 2024
+[August Monads & Mojitos: August 22, 2024](https://www.meetup.com/portland-has-skill/events/302588198)
+[September Monads & Mojitos: September 19, 2024](https://www.meetup.com/portland-has-skill/events/302588288)
+[October Monads & Mojitos: October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
+[November Monads & Mojitos: November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
+[December Monads & Mojitos: December 19, 2024](https://www.meetup.com/portland-has-skill/events/302588460)
 
 ### Most Recent Event Notes
 
