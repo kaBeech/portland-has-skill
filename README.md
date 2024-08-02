@@ -22,7 +22,11 @@ as a Collaborator 😸
 
 ### Upcoming Events
 
-July Monads & Mojitos - TBA
+August Monads & Mojitos: August 22, 2024
+September Monads & Mojitos: September 19, 2024
+October Monads & Mojitos: October 17, 2024
+November Monads & Mojitos: November 21, 2024
+December Monads & Mojitos: December 19, 2024
 
 ### Most Recent Event Notes
 
