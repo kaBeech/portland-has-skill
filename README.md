@@ -21,15 +21,11 @@ Skill, hit me up and I can add you as a Collaborator 😸
 
 ### Upcoming Events
 
-- [August Monads & Mojitos: August 22, 2024](https://www.meetup.com/portland-has-skill/events/302588198)
-- [September Monads & Mojitos: September 19, 2024](https://www.meetup.com/portland-has-skill/events/302588288)
-- [October Monads & Mojitos: October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
-- [November Monads & Mojitos: November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
-- [December Monads & Mojitos: December 19, 2024](https://www.meetup.com/portland-has-skill/events/302588460)
-
-### Most Recent Event Notes
-
-- [Monads & Mojitos: Coincidence | 2024-07-25](events/MM-2024-07-25.md)
+- [Monads & Mojitos 3: August 22, 2024](https://www.meetup.com/portland-has-skill/events/302588198)
+- [Monads & Mojitos 4: September 19, 2024](https://www.meetup.com/portland-has-skill/events/302588288)
+- [Monads & Mojitos 5: October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
+- [Monads & Mojitos 6: November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
+- [Monads & Mojitos 7: December 19, 2024](https://www.meetup.com/portland-has-skill/events/302588460)
 
 ### Past Event Notes
 
