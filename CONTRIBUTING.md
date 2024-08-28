@@ -10,17 +10,17 @@ In general, please:
     "Companies Using FP in Portland" sections if you are an active member of
     Portland Has Skill
 
+    - Add discussion links under the appropriate sub-sections. If a sub-section
+      doesn't exist, feel free to add it, but see the rest of this document for
+      caveats
+
+    - When adding links from the most recent event, add links to the headers of
+      the sections updated to the top of the "Links to Topics Discussed" section
+
   - Feel free to add to the "Companies Using FP in Portland" section if you
     are associated with a company that uses functional programming in Portland
     that would appreciate our visibility. Please consider attending an event or
     reaching out to say hi!
-
-  - Add discussion links under the appropriate sub-sections. If a sub-section
-    doesn't exist, feel free to add it, but see the rest of this document for
-    caveats
-
-  - When adding links from the most recent event, add links to the headers of
-    the sections updated to the top of the "Links to Topics Discussed" section
 
   - Be respectful in all interactions with and within this community. If in
     doubt about your conduct, use the [Haskell Foundations Guidelines For
