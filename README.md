@@ -3,9 +3,7 @@
 Resources for and by Portland Haskellers and other Functional Programming 
 enthusiasts.
 
-If you would like to add to this repository, please open a PR by either 
-forking the repo first or, if you're an attending member of Portland Has 
-Skill, hit me up and I can add you as a Collaborator 😸
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Table of Contents
 
