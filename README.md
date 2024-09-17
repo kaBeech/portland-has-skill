@@ -1,3 +1,5 @@
+
+
 # Portland Has Skill
 
 Resources for and by Portland Haskellers and other Functional Programming 
@@ -21,15 +23,19 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
     - [Rewrite Systems](#rewrite-systems)
     - [Incremental Computing](#incremental-computing)
     - [Distributed Processing in the Cloud](#distributed-processing-in-the-cloud)
+    - [Stream Processing (in Haskell)](#stream-processing-in-haskell)
     - [Functional Reactive Programming](#functional-reactive-programming)
+    - [High Level Programming for SIMD/GPU](#high-level-programming-for-simdgpu)
+    - [Hardware Description](#hardware-description)
+    - [Constant Memory, Low-Level Code](#constant-memory-low-level-code)
   - [Verification](#verification)
   - [Languages, etc.](#languages-etc)
   - [Nix and NixOS](#nix-and-nixos)
   - [AI](#ai)
   - [Robust Computing](#robust-computing)
   - [Text Editors](#text-editors)
-  - [Web Tools](#web-tools)
   - [Database Tools](#database-tools)
+  - [Web Tools](#web-tools)
   - [Learning Tools](#learning-tools)
   - [Real-World Haskell Use](#real-world-haskell-use)
   - [Misc](#misc)
@@ -92,6 +98,8 @@ Sections with New Links from Most Recent Event:
 
   - [Agda](/en.m.wikipedia.org/w/index.php?title=Agda_(programming_language))
 
+  - [Pie](https://mitpress.mit.edu/9780262536431/the-little-typer/) from *The Little Typer*
+
 #### Type Checkers
 
   - [Sorbet](https://sorbet.org/)
@@ -134,6 +142,15 @@ Sections with New Links from Most Recent Event:
 
   - [Materialize](https://materialize.com/ (see also differential dataflow above))
 
+#### Stream Processing (in Haskell)
+
+- [conduit](https://hackage.haskell.org/package/conduit)
+
+- [streaming](https://hackage.haskell.org/package/streaming)
+
+- [streamly](https://hackage.haskell.org/package/streamly)
+
+
 #### [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
 
   - [Elm](https://en.wikipedia.org/wiki/Elm_(programming_language))
@@ -142,11 +159,29 @@ Sections with New Links from Most Recent Event:
 
   - [Yampa](https://github.com/ivanperez-keera/Yampa)
 
+#### High Level Programming for SIMD/GPU
+
+  - [Bend](https://github.com/HigherOrderCO/bend)
+
+  - [Futhark](https://github.com/diku-dk/futhark)
+
+#### Hardware Description
+
+  - haskell to verilog/vhdl with [Clash](https://github.com/clash-lang/clash-compiler)
+
+#### Constant Memory, Low-Level Code
+
+  - from haskell with [Copilot](https://github.com/Copilot-Language/copilot)
+
 ### Verification
 
 - [Verifying a Rust implementation with Lean](https://github.com/cedar-policy/cedar)
 
 - [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
+
+- [CompCert](https://compcert.org/compcert-C.html)
+
+- [Alain (and students') formally verified network stack](https://www.youtube.com/watch?v=linRvpquOrg)
 
 ### Languages, etc.
 
@@ -157,6 +192,7 @@ Sections with New Links from Most Recent Event:
 - [Agda](https://en.wikipedia.org/wiki/Agda_(proof_assistant))
 
 - [Coq](https://en.wikipedia.org/wiki/Coq_(software))
+  - [Coq is getting renamed to 'The Rocq Prover'](https://coq.discourse.group/t/coq-community-survey-2022-results-part-iv-and-itp-paper-announcement/2001)
 
 - [Oz](https://en.wikipedia.org/wiki/Oz_(programming_language))
 
@@ -165,6 +201,13 @@ Sections with New Links from Most Recent Event:
 - [Bend](https://higherorderco.com/)
 
 - [Gleam](https://gleam.run/)
+
+- [Isabelle](https://isabelle.in.tum.de/)
+
+- [Roc](https://www.roc-lang.org/)
+
+- Scheme
+  - [The Little Schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/)
 
 ### Nix and NixOS
 
@@ -222,6 +265,12 @@ Sections with New Links from Most Recent Event:
 - [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming)
 
 - [Conal Elliott on "A Galilean revolution for computing" @ZuriHac2023](https://www.youtube.com/watch?v=k6rY5Mvx84E)
+
+- Evan mentioned an essay by Dijkstra arguing that we should make machines with evaluation semantics closer to LISP
+
+  - [lisp machine](https://en.wikipedia.org/wiki/Lisp_machine)
+
+    - [reduceron](https://github.com/tommythorn/Reduceron)
 
 ## Companies Using FP in Portland
 
