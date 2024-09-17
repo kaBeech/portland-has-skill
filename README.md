@@ -80,17 +80,17 @@ Sections with New Links from Most Recent Event:
 
 #### [Cubical Types](https://arxiv.org/abs/1611.02108)
 
-  - [Cubical Agda: https](/agda.readthedocs.io/en/v2.6.4.3-r1/language/cubical.html)
+  - [Cubical Agda](/agda.readthedocs.io/en/v2.6.4.3-r1/language/cubical.html)
 
-#### [Dependently typed languages: https](/en.m.wikipedia.org/w/index.php?title=Dependent_type)
+#### [Dependently typed languages](/en.m.wikipedia.org/w/index.php?title=Dependent_type)
 
-  - [Coq: https](/en.wikipedia.org/wiki/Coq_(software))
+  - [Coq](/en.wikipedia.org/wiki/Coq_(software))
 
-  - [Lean4: https](/en.m.wikipedia.org/wiki/Lean_(proof_assistant))
+  - [Lean4](/en.m.wikipedia.org/wiki/Lean_(proof_assistant))
 
-  - [Idris2: https](/en.m.wikipedia.org/wiki/Idris_(programming_language))
+  - [Idris2](/en.m.wikipedia.org/wiki/Idris_(programming_language))
 
-  - [Agda: https](/en.m.wikipedia.org/w/index.php?title=Agda_(programming_language))
+  - [Agda](/en.m.wikipedia.org/w/index.php?title=Agda_(programming_language))
 
 #### Type Checkers
 
