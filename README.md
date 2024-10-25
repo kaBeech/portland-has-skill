@@ -50,12 +50,12 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Upcoming Events
 
 - [Monads & Mojitos 4: September 19, 2024](https://www.meetup.com/portland-has-skill/events/302588288)
-- [Monads & Mojitos 5: October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
 - [Monads & Mojitos 6: November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
 - [Monads & Mojitos 7: December 19, 2024](https://www.meetup.com/portland-has-skill/events/302588460)
 
 ### Past Events
 
+- [Monads & Mojitos 5: October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
 - [Monads & Mojitos: Magic | 2024-08-22](https://www.meetup.com/portland-has-skill/events/302588198)
 - [Monads & Mojitos: Coincidence | 2024-07-25](https://www.meetup.com/portland-has-skill/events/302105153/)
 - [Monads & Mojitos: Inauguration | 2024-06-27](https://www.meetup.com/portland-has-skill/events/301628256/)
@@ -271,6 +271,12 @@ Sections with New Links from Most Recent Event:
   - [lisp machine](https://en.wikipedia.org/wiki/Lisp_machine)
 
     - [reduceron](https://github.com/tommythorn/Reduceron)
+
+- [PROGRAM = PROOF](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) by Samuel Mimram. Course notes rendered in book form. Starts with basic topics (logic and untyped λ-calculus) and gets to HoTT.
+
+- [On understanding data abstraction, revisited](https://dl.acm.org/doi/10.1145/1640089.1640133) OOP from a FP perspective.
+
+- [Trees That Grow](https://arxiv.org/abs/1610.04799)
 
 ## Companies Using FP in Portland
 
