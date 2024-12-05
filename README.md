@@ -272,6 +272,12 @@ Sections with New Links from Most Recent Event:
 
     - [reduceron](https://github.com/tommythorn/Reduceron)
 
+- [PROGRAM = PROOF](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) by Samuel Mimram. Course notes rendered in book form. Starts with basic topics (logic and untyped λ-calculus) and gets to HoTT.
+
+- [On understanding data abstraction, revisited](https://dl.acm.org/doi/10.1145/1640089.1640133) OOP from a FP perspective.
+
+- [Trees That Grow](https://arxiv.org/abs/1610.04799)
+
 - [Ghosts of Departed Proofs](https://dl.acm.org/doi/10.1145/3299711.3242755)
 
 ## Companies Using FP in Portland
