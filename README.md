@@ -48,11 +48,11 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 [Portland Has Skill Meetup](https://www.meetup.com/portland-has-skill/)
 
 ### Upcoming Events
-- [Monads & Mojitos 6: November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
 - [Monads & Mojitos 7: December 19, 2024](https://www.meetup.com/portland-has-skill/events/302588460)
 
 ### Past Events
 
+- [Monads & Mojitos: Exodus November 21, 2024](https://www.meetup.com/portland-has-skill/events/302588453)
 - [Monads & Mojitos: Fire Circle October 24, 2024](https://www.meetup.com/portland-has-skill/events/302588410)
 - [Monads & Mojitos: Recursion September 19, 2024](https://www.meetup.com/portland-has-skill/events/302588288)
 - [Monads & Mojitos: Magic | 2024-08-22](https://www.meetup.com/portland-has-skill/events/302588198)
