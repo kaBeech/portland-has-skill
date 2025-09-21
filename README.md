@@ -192,7 +192,7 @@ Sections with New Links from Most Recent Event:
 - [Agda](https://en.wikipedia.org/wiki/Agda_(proof_assistant))
 
 - [Coq](https://en.wikipedia.org/wiki/Coq_(software))
-  - [Coq is getting renamed to 'The Rocq Prover'](https://coq.discourse.group/t/coq-community-survey-2022-results-part-iv-and-itp-paper-announcement/2001)
+  - [Coq is getting renamed to 'The Rocq Prover'](https://discourse.rocq-prover.org/t/coq-community-survey-2022-results-part-iv-and-itp-paper-announcement/2001)
 
 - [Oz](https://en.wikipedia.org/wiki/Oz_(programming_language))
 
